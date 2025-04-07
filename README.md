@@ -27,3 +27,9 @@ This is a basic C++ console application for managing student records. It allows 
 
 - C++ compiler (like `g++`, `clang++`)
 - Basic understanding of file handling and vectors in C++
+
+### Demo
+
+Here’s a screenshot of the program running in the terminal:
+
+![Student Management System](Studentsystemdemo.jpg)
